@@ -91,7 +91,7 @@ class RBing
   RESERVED_OPTIONS = [:top, :skip]
   # Source Types: <http://msdn.microsoft.com/en-us/library/dd250847.aspx>
   #
-  SOURCES = %w(Web)
+  SOURCES = %w(Web Composite)
 
   # Set up methods for each search source:
   # +ad+, +image+, +instant_answer+, +news+, +phonebook+, +related_search+,
